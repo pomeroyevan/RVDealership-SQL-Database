@@ -25,7 +25,7 @@ Testing
   
 Deployment
   The database was deployed with an accompanying app which allows members of management to see sales invoices,
-customer information, and employee information
+customer information, and employee information, and a dashboard with some relevent management information.
   
 Refleciton
   Alltogether this project greatly increased my knowledge and understanding of SQL and relational databases as a whole.
