@@ -1,6 +1,6 @@
 Purpose:
   This database was made to practice and demonstrate database administration skills using Oracle Apex and SQL.
-After being given sample documents, i was tasked with making a relational database to store information collected
+After being given sample business documents, i was tasked with making a relational database to store information collected
 by ficticious RV dealership in Pismo Beach, CA.
 
 Planning
